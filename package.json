@@ -1,0 +1,11 @@
+{
+  "name": "eustache",
+  "version": "0.0.1",
+  "description": "none for now",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pierre-Yves Gérardy",
+  "license": "MIT"
+}
